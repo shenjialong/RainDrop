@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:layout_weight="4" 
+         >
+
+        <com.xiaoyudi.customview.NavigationBar
+            android:id="@+id/navigationBar_style3"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </com.xiaoyudi.customview.NavigationBar>
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" 
+        android:orientation="vertical" >
+    
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="2" 
+        android:orientation="vertical" >
+
+        <GridView
+            android:id="@+id/gridView_1_style3"
+            android:layout_width="match_parent"
+            android:listSelector="#6bade6"
+             android:layout_height="fill_parent"
+             android:horizontalSpacing="10dp"
+            android:numColumns="4" >
+        </GridView>
+        </LinearLayout>
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" 
+        android:orientation="vertical" >
+        <GridView
+            android:id="@+id/gridView_2_style3"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:horizontalSpacing="10dp"
+            android:listSelector="#6bade6"
+            android:numColumns="3" >
+        </GridView>
+
+    </LinearLayout>
+    
+          </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="4" 
+        android:orientation="vertical" 
+        android:background="#6bade6">
+    </LinearLayout>
+
+</LinearLayout>

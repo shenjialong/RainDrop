@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daily_life">
+<!-- 	    <item>饮食</item> -->
+<!-- 	    <item>自理能力</item> -->
+<!-- 	    <item>身体状况</item> -->
+<!-- 	    <item>出行</item> -->
+<!-- 	    <item>穿着</item> -->
+<!-- 	    <item>休闲生活</item> -->
+	    <item>我想吃饭</item>
+	    <item>我想喝水</item>
+	    <item>我想要筷子</item>
+	    <item>我想要勺子</item>
+	    <item>我吃饱了</item>
+	    <item>我想吃水果</item>
+	    <item>我想吃零食</item>
+	    <item>我想喝饮料</item>
+	     <item>我想尿尿</item>
+	    <item>我想大便</item>
+	    <item>我想洗手</item>
+	    <item>我想刷牙</item>
+	    <item>我想洗脸</item>
+	    <item>我想梳头</item>
+	    <item>我想剪指甲</item>
+	    <item>我想洗澡</item>
+	    <item>帮我冲马桶</item>
+	    <item>我头疼</item>
+	    <item>我牙齿疼</item>
+	    <item>我肚子疼</item>
+	    <item>我腹泻</item>
+	    <item>我出血了</item>
+	    <item>我咳嗽</item>
+	</string-array>
+	<string-array name="daily_life_diet">
+	    <item>我想吃饭</item>
+	    <item>我想喝水</item>
+	    <item>我想要筷子</item>
+	    <item>我想要勺子</item>
+	    <item>我吃饱了</item>
+	    <item>我想吃水果</item>
+	    <item>我想吃零食</item>
+	    <item>我想喝饮料</item>
+	</string-array>
+	<string-array name="daily_life_self_care">
+	    <item>我想尿尿</item>
+	    <item>我想大便</item>
+	    <item>我想洗手</item>
+	    <item>我想刷牙</item>
+	    <item>我想洗脸</item>
+	    <item>我想梳头</item>
+	    <item>我想剪指甲</item>
+	    <item>我想洗澡</item>
+	    <item>帮我冲马桶</item>
+	</string-array>
+	<string-array name="daily_life_physical_condition">
+	    <item>我头疼</item>
+	    <item>我牙齿疼</item>
+	    <item>我肚子疼</item>
+	    <item>我腹泻</item>
+	    <item>我出血了</item>
+	    <item>我咳嗽</item>
+	</string-array>
+	<string-array name="daily_life_going_out">
+	    <item>我想坐车</item>
+	    <item>我想骑自行车</item>
+	    <item>我想去散步</item>
+	    <item>我想去动物园</item>
+	    <item>我想去公园</item>
+	    <item>我想去海滩</item>
+	    <item>我想去餐馆</item>
+	    <item>我想去超市</item>
+	</string-array>
+	<string-array name="daily_life_dress">
+	    <item>我想穿外套</item>
+	    <item>帮我扣纽扣</item>
+	    <item>帮我拉拉链</item>
+	    <item>我想穿裤子</item>
+	    <item>我想穿袜子</item>
+	    <item>我想穿鞋</item>
+	</string-array>
+	<string-array name="daily_life_relaxation">
+	    <item>我想玩球</item>
+	    <item>我想听音乐</item>
+	    <item>我想看电视</item>
+	    <item>我想玩游戏</item>
+	    <item>我想看书</item>
+	    <item>我想画画</item>
+	</string-array>
+</resources>
